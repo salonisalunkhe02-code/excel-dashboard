@@ -31,14 +31,14 @@ The dashboard helps users:
 
 Add your dashboard screenshot here.
 
-![Excel Dashboard](dashboard.png)
+![Excel Dashboard](Screenshot%202026-11-21%20202957.png)
 
 ## 📁 Project Files
 
 | File Name | Description |
 |---|---|
-| Excel_Dashboard.xlsx | Main Excel analysis and dashboard file |
-| dashboard.png | Dashboard screenshot |
+| Amazon Sales Data India.xlsx | Main Excel analysis and dashboard file |
+|Screenshot 2026-11-21 202957.png | Dashboard screenshot |
 | README.md | Project documentation |
 
 ## 👩‍💻 Author
